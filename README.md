@@ -1,3 +1,6 @@
+The Roblux NFT project goal is the ability to explore what is possible while exchanging roblux NFT's.
+EX:through the polygon, with wallets, social networks etc...
+
 <h1 align="center">EthBlox</h1>
 
 <p align="center">
